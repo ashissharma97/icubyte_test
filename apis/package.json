@@ -1,0 +1,17 @@
+{
+  "name": "words-apis",
+  "version": "1.0.0",
+  "description": "A sample CRUD app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Ashis Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "pg": "^8.7.3"
+  }
+}

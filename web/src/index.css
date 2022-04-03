@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+.App button {
+  padding: 0.7em 0.7em 0.5em 0.7em;
+  background: none;
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 0 1em 0.5em 0;
+}
+
+h1{
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+input {
+  font-size: 1em;
+  padding: 0.5em;
+  margin: 0.5em;
+  width: 20em;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin: 0.67em 1em 0.67em 0;
+}
+
+.word button {
+  padding: 0.7em 0.7em 0.5em 0.7em;
+  background: none;
+  border: 1px solid;
+  border-radius: 5px;
+}
